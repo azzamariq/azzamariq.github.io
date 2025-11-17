@@ -26,7 +26,7 @@ Contoh karya:
 ##  Feed Instagram Design
 Beberapa desain feed / carousel:
 ![Feed](Feed3.jpeg)
-![Feed](assets/feed/feed2.jpg)
+![Feed](assets/feed/feed1.jpeg)
 
 ---
 
